@@ -1,4 +1,5 @@
 # diabetes_risk_assessment
+INTERNID - CITS6769
 # 🩺 Diabetes Risk Assessment
 
 A Machine Learning project that predicts whether a person is at risk of diabetes based on medical parameters. The project uses the Pima Indians Diabetes Dataset, trains a Logistic Regression model, and provides predictions through a Streamlit web application.
